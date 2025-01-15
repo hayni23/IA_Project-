@@ -20,7 +20,7 @@ This project allows users to interact with multiple PDF documents using a Large 
 1. **Clone the repository**:  
    ```bash
    git clone https://github.com/
-   cd chat-with-multiple-pdfs
+
    
   2. **Set up a virtual environment (optional but recommended):**:
 
