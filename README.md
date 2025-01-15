@@ -19,7 +19,7 @@ This project allows users to interact with multiple PDF documents using a Large 
 
 1. **Clone the repository**:  
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/hayni23/IA_Project-.git
    cd chat_with_pdfs
    
   2. **Set up a virtual environment (optional but recommended):**:
